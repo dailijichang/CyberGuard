@@ -1,7 +1,7 @@
 # CyberGuard机场怎么样?
 
 ## CyberGuard机场官网地址
-最新官网地址：[大哥云官网](https://dljc.affxc.com/cyberguard/)
+最新官网地址：[CyberGuard机场官网](https://dljc.affxc.com/cyberguard/)
 
 ## CyberGuard机场怎么样？
 CyberGuard机场，采用高速安全加密的Trojan协议抗封锁能力强，全部节点线路IEPL及IPLC高速专线，支持一键导入支持Clash、Shadowrocket、小火箭等翻墙插件。
